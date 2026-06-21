@@ -14,7 +14,7 @@
   <p align="center">Home Page</p>
 </div>
 
-
+I built an end-to-end DevSecOps CI/CD pipeline for a containerized web application using Jenkins, Docker, Kubernetes, SonarQube, Trivy, Prometheus, Grafana, and AWS. The objective was to automate code integration, security scanning, containerization, deployment, and monitoring while following DevSecOps best practices.
 
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
