@@ -1,0 +1,28 @@
+Developer
+    |
+    v
+GitHub Repository
+    |
+    v
+Jenkins Pipeline
+    |
+    +--> SonarQube (Code Quality)
+    |
+    +--> OWASP Dependency Check
+    |
+    +--> Trivy (Security Scan)
+    |
+    v
+Docker Build
+    |
+    v
+Docker Hub
+    |
+    v
+Kubernetes Deployment
+    |
+    v
+Netflix Clone Application
+    |
+    v
+Prometheus + Grafana Monitoring
